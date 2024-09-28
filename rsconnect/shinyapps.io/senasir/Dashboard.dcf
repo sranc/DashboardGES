@@ -1,0 +1,12 @@
+name: Dashboard
+title: Dashboard
+username: senasir
+account: senasir
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12751697
+bundleId: 9153941
+url: https://senasir.shinyapps.io/Dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
